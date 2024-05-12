@@ -46,3 +46,5 @@ b.design(Mu=320,D="D19",Dc="D19")
 sk.Draw(b).plot()
 ```
 <img src="Example/design_doubly_flanged.png" width="800"/>
+
+Please see [Example/](https://github.com/agusdaud17/balokbeton/tree/main/Example) for more details.
