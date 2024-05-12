@@ -13,7 +13,7 @@ pip install balokBeton
 * Flanged singly reinforced beam
 * Flanged doubly reinforced beam
 
-Please see Example for more details.
+Please see [Example/](https://github.com/agusdaud17/balokbeton/tree/main/Example) for more details.
 
 ## Example
 ### 01. Analysis of rectangular singly reinforced beam
