@@ -12,6 +12,7 @@ pip install balokBeton
 * Rectangular doubly reinforced beam
 * Flanged singly reinforced beam
 * Flanged doubly reinforced beam
+* Support SI and Imperial units
 
 Please see [Example/](https://github.com/agusdaud17/balokbeton/tree/main/Example) for more details.
 
